@@ -9,8 +9,8 @@
 
 整体架构如图：
 
-![架构](./HEumAhwbsAALgLH.jpeg)
+![架构](./HEumAhwbsAALgLH.png)
 
-![架构](./HEunMhfbQAACGwS.jpeg)
+![架构](./HEunMhfbQAACGwS.png)
 
 

@@ -60,3 +60,6 @@
 ## 文档索引
 
 - [`query/` 模块深度分析](./query/query模块分析.md) — 分析 query/ 目录的四个子模块：config、deps、stopHooks、tokenBudget
+
+## Harness Engineering
+- [Awesome Harness Engineering](/claude-code-ts-source/tree/main/harness-engineering)
